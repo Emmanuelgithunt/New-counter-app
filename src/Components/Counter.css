@@ -1,0 +1,42 @@
+.container{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+h1{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.counter{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+
+.btn{
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 10px;
+    color: #333;
+    cursor: pointer;
+}
+
+.reset{
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    margin: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #ccc;
+    color: #333;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#count{
+    font-size: 3rem;
+    margin: 0 2rem;
+}
